@@ -7,8 +7,7 @@
 void main()
 {
    system("cls");
-   printf("Hello Pooja!!!!!!!\n");
-    printf("My new git project in brach called developer");
+   printf("Hello Pooja\n");
    printf("My First Program yeah!!!!!!!!\n");
    getch();
 }
